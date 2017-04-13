@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jyothi.chris"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.jyothi.chris.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.jyothi.chris.VisionMission"
+            android:label="@string/title_activity_vision_mission"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.jyothi.chris.Highlights"
+            android:label="@string/title_activity_highlights"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.jyothi.chris.HighlightsFeature" />
+        <activity android:name="com.example.jyothi.chris.HighlightsObjectives" />
+        <activity android:name="com.example.jyothi.chris.HighlightsGoals" />
+        <activity
+            android:name="com.example.jyothi.chris.Eligibility"
+            android:label="@string/title_activity_eligibility"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.jyothi.chris.Eligibilitymca3" />
+        <activity android:name="com.example.jyothi.chris.Eligibilitymca2" />
+        <activity android:name="com.example.jyothi.chris.Eligibilitymca5" />
+        <activity
+            android:name="com.example.jyothi.chris.Courses"
+            android:label="@string/title_activity_courses"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.jyothi.chris.FeeStructure"
+            android:label="@string/title_activity_fee_structure"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.jyothi.chris.Regleint" />
+        <activity android:name="com.example.jyothi.chris.Int3year" />
+    </application>
+
+</manifest>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.jyothi.chris.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text ="    Amal Jyothi College of Engineering has established itself as a benchmark of excellence in technical higher education and research. Founded in 2001 by the Catholic Diocese of Kanjirappally,Amal Jyothi is approved by the AICTE and affiliated to APJ Abdul Kalam Technological University (KTU), Kerala.It is the first new generation engineering college in Kerala with the prestigious NBA accredited departments and the first engineering college in Kerala with the recognition of ‘A’ grade from NAAC."
+        android:textStyle="bold|italic"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="315dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logo"
+        android:id="@+id/imageView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/textView4" />
+
+
+</RelativeLayout>

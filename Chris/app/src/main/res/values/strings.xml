@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MCA HC App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vision_mission">Vision Mission</string>
+    <string name="title_activity_highlights">Highlights</string>
+    <string name="title_activity_eligibility">Eligibility</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_fee_structure">FeeStructure</string>
+</resources>

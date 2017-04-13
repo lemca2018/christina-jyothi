@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fee_structure.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\fee_structure.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\courses.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\vision_mission.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\vision_mission.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\eligibility.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\eligibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\highlights.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\highlights.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\jyoth\\AndroidStudioProjects\\Chris\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
